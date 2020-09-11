@@ -17,7 +17,7 @@
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a target="_blank" href="https://build.fhir.org/ig/HL7China/PublicHealth">公卫实施指南</a>
+        <a target="_blank" href="https://build.fhir.org/ig/HL7China/SC-Public-Health-R4">公卫实施指南</a>
       </li>
     </ul>
   </li>
@@ -53,11 +53,9 @@
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a target="_blank" href="http://hl7fhir.cn">FHIR中文版</a>
+        <a target="_blank" href="http://www.hl7fhir.cn">FHIR中文版</a>
       </li>
-	   <li>
-        <a target="_blank" href="http://terminology.hl7fhir.cn/">术语中心</a>
-      </li>
+	  
 	  <li>
         <a target="_blank" href="http://fhir.press/">标准注册与发布</a>
       </li>
