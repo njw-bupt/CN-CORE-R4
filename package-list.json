@@ -9,5 +9,12 @@
   "path" : "https://build.fhir.org/ig/HL7China/CN-CORE-R4",
   "status" : "ci-build",
   "current" : true
+ },{
+  "version" : "0.1.0",  
+  "date" : "2099-01-01", 
+  "desc" : "Internal test",   
+  "path" : "http://hl7.org/fhir/yyyyMmm/testIG.html",   
+  "status" : "ballot",   
+  "sequence" : "DSTU 1"
  }]
 }
